@@ -51,6 +51,9 @@ public class Clients extends JFrame {
 	private Boolean isNew=false;
 	
 	public Clients() {
+		
+		
+		// TUTAJ DODAJEMY NOWY KOMENTARZ 4
 		Workshop wrk=new Workshop();
 		setTitle("CLIENTS");
 		getContentPane().setLayout(null);
